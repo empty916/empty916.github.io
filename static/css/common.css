@@ -10,5 +10,7 @@ html,body{
   flex: auto;
   height: calc(100% - 1.5rem);
   overflow: auto;
+  overflow-scrolling: touch;
+  -webkit-overflow-scrolling: touch;
 }
 
