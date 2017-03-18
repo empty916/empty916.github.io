@@ -8,4 +8,7 @@ html,body{
   position: static!important;
   width: 100%;
   flex: auto;
+  height: calc(100% - 1.5rem);
+  overflow: auto;
 }
+
